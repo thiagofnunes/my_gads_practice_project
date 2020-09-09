@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AAD Practice Project</string>
+    <string name="tab_text_1">Learning Leaders</string>
+    <string name="tab_text_2">Skill IQ Leaders</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="Submit">Submit</string>
+    <string name="developed_by_thiago_nunes">Developed by Thiago Nunes</string>
+    <string name="error_loading_data">Error loading the data</string>
+    <string name="retry">RETRY</string>
+    <string name="project_submission">Project Submission</string>
+    <string name="question_mark">\?</string>
+    <string name="yes">Yes</string>
+    <string name="are_you_sure">Are you sure</string>
+    <string name="submission_not_successful">Submission not Successful</string>
+    <string name="submission_successful">Submission Successful</string>
+</resources>
